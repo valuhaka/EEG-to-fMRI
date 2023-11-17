@@ -11,4 +11,4 @@ Predicting reward-related BOLD activation from EEG data.
 1. Preprocessing
 
 - head movement
-- selecting ROIs
+- selecting striatal ROI
