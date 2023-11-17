@@ -12,3 +12,7 @@ Predicting reward-related BOLD activation from EEG data.
 
 - head movement
 - selecting striatal ROI
+
+2. Fitting
+
+- hemodynamic response function
