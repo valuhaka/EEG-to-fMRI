@@ -1,0 +1,17 @@
+meeting minutes 17.11.2023
+
+@Nadine: 
+upload on github:
+  - preprocessing scripts (EEG & fMRI)
+  - striatal mask (.mat)
+  - first level/single subject script (that generates SPM.mat files (see owncloud)) ... in the first level script, you can find how the timings are calculated
+upload to owncloud:
+  - 5 SPM.mat
+  - 5 raw EEG files that are relatively clean
+  - dependency files for Luka to run first_level script:
+     - WS.mat
+     - swuasub-102_ses-1_task_workingmemory_bold.nii file
+
+to do for both:
+- try to find single subject timeseries in SPM (should have length ~950 datapoint)
+- try to apply binary striatum mask
