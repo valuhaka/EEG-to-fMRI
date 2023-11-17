@@ -1,6 +1,8 @@
 # EEG-to-fMRI
 Predicting reward-related BOLD activation from EEG data.
 
+subject EEG and fMRI data can be found at: https://owncloud.gwdg.de/index.php/s/38pkw9k9cr0zT57
+
 
 # EEG
 
