@@ -27,7 +27,7 @@ subject EEG and fMRI data can be found at: https://owncloud.gwdg.de/index.php/s/
 
 ## Modeling
 
-- autoencoder
+- autoencoder: [BEIRA](https://github.com/kovalalvi/beira)
 
 1. Finding latent factors from EEG
 
